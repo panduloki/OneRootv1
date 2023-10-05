@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656656878164",
+    "project_id": "oneroot-3f635",
+    "storage_bucket": "oneroot-3f635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656656878164:android:85048b5abaa59b84e97bc1",
+        "android_client_info": {
+          "package_name": "com.example.onerootv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8yts8YCAuO6u0sht2A5NtyJN4WkMS704"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

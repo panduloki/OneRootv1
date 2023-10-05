@@ -1,0 +1,66 @@
+<resources>
+
+    <string name="app_name">one root v1 </string>
+    <string name="tv_take_photo">Take photo</string>
+    <string name="loadButtonText">load truck</string>
+    <string name="video">video view</string>
+    <string name="background">background_image</string>
+    <string name="camera">camera view</string>
+    <string name="image_session">image session</string>
+    <string name="ok_string">OK</string>
+    <string name="company_name">One Root</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in_button">Sign in</string>
+    <string name="sign_in_check_box">Keep me Signed in</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+    <string name="login_name">Register</string>
+    <string name="phone_no">phone no</string>
+    <string name="switch1">Switch</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="log_in_fragment_text">log in fragment\n</string>
+    <string name="register_fragment_text">register fragment\n</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send_pictures_text">send data</string>
+    <string name="displaying_image">displaying_image</string>
+    <string name="gallery">gallery</string>
+    <string name="sessions">Sessions</string>
+    <string name="session_count">0</string>
+    <string name="coconut_count">0</string>
+    <string name="income">0</string>
+    <string name="sever_response">sever_response</string>
+    <string name="sendButtonText">send</string>
+    <string name="settingsButtonText">save</string>
+    <string name="income_text">income</string>
+    <string name="latitude_text">Latitude</string>
+    <string name="longitude_text">Longitude</string>
+    <string name="country_name_text">Country Name</string>
+    <string name="locality_text">Locality</string>
+    <string name="address_text">Address</string>
+    <string name="unloading_truck_text">unloading truck</string>
+    <string name="resume_session_text">resume session</string>
+    <string name="server_button_text">server connect</string>
+    <string name="sync_profile_data_text">sync profile data</string>
+    <string name="locationAutoText">Choose Location\n</string>
+    <string name="roleText">choose role</string>
+
+    <string-array name="location_list">
+        <item>Chamrajnagar</item>
+        <item>Maddur</item>
+        <item>Pollachi</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="role_list">
+        <item>counting manager</item>
+        <item>quality manager</item>
+        <item>farmer</item>
+        <item>cc manager</item>
+        <item>Field Professional</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
